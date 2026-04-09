@@ -86,14 +86,6 @@ El análisis permitió identificar patrones relevantes en la demanda de servicio
 
 ---
 
-## 🚀 Posibles mejoras
-
-- Incorporar modelos predictivos para estimar demanda  
-- Integrar datos en tiempo real  
-- Desarrollar dashboards interactivos (Power BI / Tableau)  
-- Analizar impacto de otras variables (hora del día, eventos, tráfico)  
-
----
 
 ## 🔗 Repositorio
 
